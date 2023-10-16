@@ -32,7 +32,7 @@ parser.add_argument('--backend', type=str, default='nccl', help='Backend (nccl f
 parser.add_argument('--temperature', type=float, default=0.6, help='Temperature for sampling (float)')
 parser.add_argument('--top_p', type=float, default=0.9, help='Top p value for nucleus sampling (float)')
 parser.add_argument('--world_size', type=int, default=None, help='Number of parallel processes (int)')
-parser.add_argument('--max_batch_size', type=int, default=4, help='Maximum batch size (int)')
+parser.add_argument('--max_batch_size', type=int, default=2, help='Maximum batch size (int)')
 parser.add_argument('--max_gen_len', type=int, default=None, help='Maximum generation length (int)')
 parser.add_argument('--tokenizer_path', type=str, default='../../tokenizer.model', help='Path to tokenizer model (str)')
 parser.add_argument('--ckpt_dir', type=str, default=None, help='The full path to the model directory (str)')

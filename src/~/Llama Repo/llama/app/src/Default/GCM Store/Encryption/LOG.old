@@ -1,2 +1,3 @@
-2023/10/16-12:45:31.886 b71f Creating DB /home/marco/Llama Repo/llama/app/src/~/Llama Repo/llama/app/src/Default/GCM Store/Encryption since it was missing.
-2023/10/16-12:45:31.916 b71f Reusing MANIFEST /home/marco/Llama Repo/llama/app/src/~/Llama Repo/llama/app/src/Default/GCM Store/Encryption/MANIFEST-000001
+2023/10/16-16:51:37.936 182c6 Reusing MANIFEST /home/marco/Llama Repo/llama/app/src/~/Llama Repo/llama/app/src/Default/GCM Store/Encryption/MANIFEST-000001
+2023/10/16-16:51:37.936 182c6 Recovering log #3
+2023/10/16-16:51:37.936 182c6 Reusing old log /home/marco/Llama Repo/llama/app/src/~/Llama Repo/llama/app/src/Default/GCM Store/Encryption/000003.log 

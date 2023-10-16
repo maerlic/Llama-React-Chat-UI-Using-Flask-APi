@@ -47,7 +47,7 @@ function App() {
     return (
         <div className="container">
         <header className="header">
-            <h1>Mizo's ChatGPT App - instance on Azure </h1>
+            <h1>Marco's Llama 2 ChatBot</h1>
         </header>
         <main>
             <form onSubmit={handleSubmit}>

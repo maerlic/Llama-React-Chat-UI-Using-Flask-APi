@@ -1,3 +1,3 @@
-2023/10/16-12:49:30.968 3 Reusing MANIFEST /home/marco/Llama Repo/llama/app/src/~/Llama Repo/llama/app/src/Default/Local Storage/leveldb/MANIFEST-000001
-2023/10/16-12:49:30.969 3 Recovering log #3
-2023/10/16-12:49:30.969 3 Reusing old log /home/marco/Llama Repo/llama/app/src/~/Llama Repo/llama/app/src/Default/Local Storage/leveldb/000003.log 
+2023/10/16-16:53:08.581 3 Reusing MANIFEST /home/marco/Llama Repo/llama/app/src/~/Llama Repo/llama/app/src/Default/Local Storage/leveldb/MANIFEST-000001
+2023/10/16-16:53:08.582 3 Recovering log #4
+2023/10/16-16:53:08.582 3 Reusing old log /home/marco/Llama Repo/llama/app/src/~/Llama Repo/llama/app/src/Default/Local Storage/leveldb/000004.log 

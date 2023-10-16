@@ -1,2 +1,5 @@
-2023/10/16-12:45:29.756 3 Creating DB /home/marco/Llama Repo/llama/app/src/~/Llama Repo/llama/app/src/Default/Local Storage/leveldb since it was missing.
-2023/10/16-12:45:29.789 3 Reusing MANIFEST /home/marco/Llama Repo/llama/app/src/~/Llama Repo/llama/app/src/Default/Local Storage/leveldb/MANIFEST-000001
+2023/10/16-16:51:35.675 3 Reusing MANIFEST /home/marco/Llama Repo/llama/app/src/~/Llama Repo/llama/app/src/Default/Local Storage/leveldb/MANIFEST-000001
+2023/10/16-16:51:35.676 3 Recovering log #3
+2023/10/16-16:51:35.676 3 Level-0 table #3: started
+2023/10/16-16:51:35.682 3 Level-0 table #3: 36410 bytes OK
+2023/10/16-16:51:35.689 3 Delete type=0 #3

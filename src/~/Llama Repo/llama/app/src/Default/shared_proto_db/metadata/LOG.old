@@ -1,2 +1,3 @@
-2023/10/16-12:45:29.775 b748 Creating DB /home/marco/Llama Repo/llama/app/src/~/Llama Repo/llama/app/src/Default/shared_proto_db/metadata since it was missing.
-2023/10/16-12:45:29.808 b748 Reusing MANIFEST /home/marco/Llama Repo/llama/app/src/~/Llama Repo/llama/app/src/Default/shared_proto_db/metadata/MANIFEST-000001
+2023/10/16-16:51:35.747 182d1 Reusing MANIFEST /home/marco/Llama Repo/llama/app/src/~/Llama Repo/llama/app/src/Default/shared_proto_db/metadata/MANIFEST-000001
+2023/10/16-16:51:35.747 182d1 Recovering log #3
+2023/10/16-16:51:35.747 182d1 Reusing old log /home/marco/Llama Repo/llama/app/src/~/Llama Repo/llama/app/src/Default/shared_proto_db/metadata/000003.log 
